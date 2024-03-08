@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhgun Kaur</h1>
-- 🔭 I’m currently interested in **DSA and Full-Stack Development**
+- 🔭 I’m currently interested in DSA and Full-Stack Development
 
 - 🌱 I’m currently learning **AWS, ReactJS**
 
